@@ -1,2 +1,11 @@
-# SantaAdminer
-Telegram bot for admin chat management
+# SANTA ADMINer
+
+Telegram-бот для адміністрації чатів: пересилання повідомлень, онлайн-режим, бан/мут, нотатки та нагадування.
+
+## Власник бота
+Santa
+
+---
+
+## Файли проєкту
+
